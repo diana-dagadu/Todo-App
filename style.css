@@ -1,0 +1,54 @@
+body{ 
+background-image: url('img/back3.jpg');
+background-size: 150%;
+
+}
+
+.list_items{
+    position: absolute;
+    left: 50%;
+    top: 55%;
+    transform: translate(-50%,-50%);
+    background-color:rgba(218, 218, 218, 0.877);
+    box-shadow: 0 2px 8px black;
+    width: 400px;
+    height: 360px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    ;
+}
+
+#to_do {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+color: black
+
+}
+
+#titleToDo{
+    font-family: sans-serif;
+    font-style: italic;
+    color: rgb(0, 0, 0)
+}
+
+.no-bullets{
+    list-style-type: none;
+    margin:  0px 50px ;
+    padding: 15px;
+    text-align: left;
+
+}
+
+
+.items{
+padding:5px 5px 5px 5px
+
+}
+
+#add-btn{
+background-color: aquamarine;
+}
+
+#footer1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
