@@ -4,7 +4,7 @@ background-size: 145%;
 }
 
 body#page2{ 
-    background-color: rgb(114, 132, 184);
+    background-color: rgb(118, 133, 173);
     background-size: 145%;
     }
 
@@ -72,6 +72,6 @@ padding:8px;
 }
 
 footer{
-    margin-top: 400px;
+    margin-top: 500px;
     text-align: center;
 }
